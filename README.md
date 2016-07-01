@@ -3,3 +3,5 @@
 
 [Markdown 语法说明 (简体中文版)](http://www.appinn.com/markdown/#philosophy)
 
+[图灵社区 AngularJS权威指南] (http://www.ituring.com.cn/tupubarticle/1046)
+
