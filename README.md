@@ -5,3 +5,10 @@
 
 [图灵社区 AngularJS权威指南] (http://www.ituring.com.cn/tupubarticle/1046)
 
+[requirejs] (http://requirejs.org/docs/start.html)
+
+[Avalon.js] (http://avalonjs.github.io/)
+
+[Seajs] (https://github.com/seajs)
+
+[Grunt] (http://gruntjs.cn/)
